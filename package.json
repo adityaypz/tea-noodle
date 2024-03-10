@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adityaypz/tea-noodle.git"
+    "url": "https://github.com/adityaypz/tea-noodle"
   },
   "keywords": [
     "tea"
